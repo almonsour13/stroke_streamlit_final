@@ -107,6 +107,7 @@ st.markdown("""
 # Sidebar title
 st.sidebar.title("Stroke Prediction Dataset")
 st.sidebar.write("Al Monsour M. Salida")
+st.sidebar.write("Lyla Luay")
 st.sidebar.write("Github: https://github.com/almonsour13/stroke_streamlit_final.git")
 
 st.sidebar.write("Menu")
